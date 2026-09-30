@@ -149,7 +149,7 @@ body {
     font-size: 50px;
   }
 }
-/* =========================
+/*========
    COMMON SECTION
 ========================= */
 .section {
@@ -169,7 +169,7 @@ body {
   font-size: 42px;
   margin-top: 10px;
 }
-/* =========================
+/*========
    ABOUT
 ========================= */
 .about {
@@ -222,7 +222,7 @@ body {
   transform: translateX(8px);
   box-shadow: 0 10px 25px rgba(124, 92, 255, 0.4);
 }
-/* =========================
+/*========
    ABOUT INFO
 ========================= */
 .about-info {
@@ -255,7 +255,7 @@ body {
 .info-box p {
   color: #969aaa;
 }
-/* =========================
+/*========
    SKILLS
 ========================= */
 .skills {
@@ -302,7 +302,7 @@ body {
 .skill-card:hover span {
   transform: scale(1.2) rotate(8deg);
 }
-/* =========================
+/*========
    ANIMATIONS
 ========================= */
 @keyframes fadeUp {
@@ -351,7 +351,7 @@ body {
     padding: 20px;
   }
 }
-/* =========================
+/*========
    PROJECTS
 ========================= */
 .projects {
@@ -489,7 +489,7 @@ body {
     height: 210px;
   }
 }
-/* =========================
+/*========
    CONTACT
 ========================= */
 .contact {
@@ -638,7 +638,7 @@ body {
   }
 
 }
-/* =========================
+/*========
    FOOTER
 ========================= */
 .footer {
@@ -712,7 +712,7 @@ body {
     text-align: center;
   }
 }
-/* =========================
+/*========
    ANIMATED BACKGROUND
 ========================= */
 .background-effects {
@@ -753,7 +753,7 @@ body {
     transform: translate(-50px, 150px) scale(0.9);
   }
 }
-/* =========================
+/*========
    PREMIUM NAVBAR
 ========================= */
 .navbar {
@@ -902,7 +902,7 @@ body {
 .image-circle:hover img {
   transform: scale(1.08);
 }
-/* =========================
+/*========
    EDUCATION
 ========================= */
 .education {
@@ -1028,7 +1028,7 @@ body {
 a{
     text-decoration: none;
 }
-/* =========================
+/*========
    PREMIUM FOOTER
 ========================= */
 .footer {
@@ -1164,7 +1164,7 @@ a{
   box-shadow: 0 8px 25px rgba(124, 92, 255, 0.3);
 }
 
-/* =========================
+/*========
    MOBILE
 ========================= */
 
@@ -1186,7 +1186,7 @@ a{
     font-size: 12px;
   }
 }
-/* ================= HERO ================= */
+/* HERO */
 .hero {
   min-height: calc(100vh - 75px);
   padding: 80px 8%;
@@ -1315,7 +1315,7 @@ a{
   background: rgba(124, 92, 255, 0.12);
   transform: translateY(-5px);
 }
-/* ================= PROFILE ================= */
+/* PROFILE */
 .hero-image {
   width: 420px;
   height: 420px;
