@@ -8,7 +8,7 @@ function Projects() {
       description:
         "A movie discovery website with search, trending movies, trailers and favorites.",
       tech: "HTML • CSS • JavaScript • TMDb API",
-      image: "/projects/movie.png",
+      image: `${import.meta.env.BASE_URL}projects/movie.png`,
       link: "https://mugilanthiruppathi.github.io/Movie-Explorer/",
     },
     {
@@ -16,7 +16,7 @@ function Projects() {
       description:
         "A responsive banking dashboard designed with Bootstrap components and layouts.",
       tech: "HTML • CSS • Bootstrap",
-      image: "/projects/bank.png",
+      image: `${import.meta.env.BASE_URL}projects/bank.png`,
       link: "https://mugilanthiruppathi.github.io/Bank-statement/",
     },
     {
@@ -24,7 +24,7 @@ function Projects() {
       description:
         "A responsive AC service website with services, pricing, testimonials and booking sections.",
       tech: "HTML • CSS • JavaScript",
-      image: "/projects/ac.png",
+      image: `${import.meta.env.BASE_URL}projects/ac.png`,
       link: "https://mugilanthiruppathi.github.io/AC-Services/",
     },
     {
@@ -32,7 +32,7 @@ function Projects() {
       description:
         "A modern React e-commerce application with products, cart and favorites functionality.",
       tech: "React.js • JavaScript • CSS",
-      image: "/projects/shop.png",
+      image: `${import.meta.env.BASE_URL}projects/shop.png`,
       link: "https://mugilanthiruppathi.github.io/Shop-Mart/",
     },
     {
@@ -40,7 +40,7 @@ function Projects() {
       description:
         "Designed and developed a responsive using HTML5 and CSS3.Focused on clean UI design, responsive layouts, and user-friendly navigation.",
       tech: "HTML • CSS",
-      image: "/projects/thrift.png",
+      image: `${import.meta.env.BASE_URL}projects/thrift.png`,
       link: "https://mugilanthiruppathi.github.io/thrift-trove2/",
     },
     {
@@ -48,7 +48,7 @@ function Projects() {
       description:
         "AI-powered crop disease detection platform,Focused on clean UI design, responsive layouts, and user-friendly navigation.",
       tech: "HTML • CSS",
-      image: "/projects/plantix.png",
+      image: `${import.meta.env.BASE_URL}projects/plantix.png`,
       link: "https://mugilanthiruppathi.github.io/Plantix-clone/",
     },
   ];

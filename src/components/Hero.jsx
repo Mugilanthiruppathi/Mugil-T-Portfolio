@@ -110,7 +110,10 @@ function Hero() {
           animate={{ y: [0, -12, 0]}}
           transition={{ duration: 4, repeat: Infinity, ease: "easeInOut"}}
           whileHover={{scale: 1.06 }}>
-          <img src="/mugil.jpg" alt="Mugilan"/>
+          <img
+            src={`${import.meta.env.BASE_URL}mugil.jpg`}
+            alt="Mugilan"
+          />
         </motion.div>
         {/* Floating Badge */}
         <motion.div

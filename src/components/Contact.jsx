@@ -85,7 +85,7 @@ function Contact() {
         </div>
         <section id="resume">   
         <a
-          href="\Mugilan_Frontend_Developer_Resume.pdf" 
+          href={`${import.meta.env.BASE_URL}Mugilan_Frontend_Developer_Resume.pdf`}
           download 
           className="resume-btn"
         >
